@@ -12,6 +12,9 @@ import org.slf4j.LoggerFactory;
 
 import java.util.stream.IntStream;
 
+/**
+ * @author dragos
+ */
 @Slf4j
 public class Day1 {
 
