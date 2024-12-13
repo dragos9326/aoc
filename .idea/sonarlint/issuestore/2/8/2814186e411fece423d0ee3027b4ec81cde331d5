@@ -1,0 +1,42 @@
+
+t	java:S127T"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ÌƒãîÈ1
+t	java:S127\"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8ÍƒãîÈ1
+u
+java:S1104"XMake galaxiesList a static final constant or non-public and provide accessors if needed.(Ú°æò8ÍƒãîÈ1
+
+java:S1104"_Make originalGlaxiesList a static final constant or non-public and provide accessors if needed.(ú¦Ñüúÿÿÿÿ8ÍƒãîÈ1
+z
+java:S1104"XMake galaxiesRows a static final constant or non-public and provide accessors if needed.(ë‹Ëáşÿÿÿÿ8ÍƒãîÈ1
+w
+java:S1104"[Make galaxiesColumns a static final constant or non-public and provide accessors if needed.(›£š8ÍƒãîÈ1
+O
+java:S1444"2Make this "public static galaxiesList" field final(Ú°æò8ÍƒãîÈ1
+[
+java:S1444"9Make this "public static originalGlaxiesList" field final(ú¦Ñüúÿÿÿÿ8ÍƒãîÈ1
+T
+java:S1444"2Make this "public static galaxiesRows" field final(ë‹Ëáşÿÿÿÿ8ÍƒãîÈ1
+Q
+java:S1444"5Make this "public static galaxiesColumns" field final(›£š8ÍƒãîÈ1
+:
+java:S2386"Make this member "protected".(Ú°æò8Ã„ãîÈ1
+?
+java:S2386"Make this member "protected".(ú¦Ñüúÿÿÿÿ8Ã„ãîÈ1
+?
+java:S2386"Make this member "protected".(ë‹Ëáşÿÿÿÿ8Ã„ãîÈ1
+9
+java:S2386"Make this member "protected".(›£š8Ã„ãîÈ1
+L	java:S106"+Replace this use of System.out by a logger.(…¢©Æÿÿÿÿÿ8Å„ãîÈ1
+L	java:S106"+Replace this use of System.out by a logger.(­Øüÿÿÿÿ8Å„ãîÈ1
+G	java:S106"+Replace this use of System.out by a logger.(’òßÌ8Å„ãîÈ1
+G	java:S106 "+Replace this use of System.out by a logger.(®ğ³Ó8Å„ãîÈ1
+L	java:S106%"+Replace this use of System.out by a logger.(ğôû«ÿÿÿÿÿ8Å„ãîÈ1
+L	java:S106("+Replace this use of System.out by a logger.(ÜÜ™úùÿÿÿÿ8Å„ãîÈ1
+L	java:S106*"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Å„ãîÈ1
+o
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¢êŸ‹8Æ„ãîÈ1
+G	java:S106H"+Replace this use of System.out by a logger.(¯«ºœ8Æ„ãîÈ1
+G	java:S106I"+Replace this use of System.out by a logger.(Ö­±ì8Æ„ãîÈ1
+J
+java:S1172l"-Remove this unused method parameter "matrix".(äÛ¾8Ç„ãîÈ1
+G	java:S106s"+Replace this use of System.out by a logger.(Ø«à°8Ç„ãîÈ1
+L	java:S106t"+Replace this use of System.out by a logger.(§«óùÿÿÿÿ8Ç„ãîÈ1

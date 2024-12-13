@@ -1,0 +1,9 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(š“áßýÿÿÿÿ8„øÜ–È1
+L	java:S106"+Replace this use of System.out by a logger.(²Êê…ýÿÿÿÿ8„øÜ–È1
+L	java:S106"+Replace this use of System.out by a logger.(È‰²ƒùÿÿÿÿ8„øÜ–È1
+G	java:S106"+Replace this use of System.out by a logger.( úç’8ÑÀà–È1
+n
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Á·ÿ8„øÜ–È1
+o
+java:S62044"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¯„½ç8…øÜ–È1

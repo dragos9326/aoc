@@ -1,0 +1,15 @@
+
+€
+java:S1488˜"]Immediately return this expression instead of assigning it to the temporary variable "nextX".(·••öûÿÿÿÿ8»ãİ¾Ï1
+{
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "nextY".(•ù¤8»ãİ¾Ï1
+L	java:S106$"+Replace this use of System.out by a logger.(™çÇ¬şÿÿÿÿ8Œ»Ñ¾Ï1
+F	java:S106%"+Replace this use of System.out by a logger.(Ë›ÖC8»Ñ¾Ï1
+G	java:S106&"+Replace this use of System.out by a logger.(¡ïôµ8£¿è¾Ï1
+L	java:S106'"+Replace this use of System.out by a logger.(®œø·ÿÿÿÿÿ8ŸµˆéÏ1
+|
+java:S1210¤"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ë„€Ïùÿÿÿÿ8Âãİ¾Ï1
+b
+java:S3358™"DExtract this nested ternary operation into an independent statement.(¡ò¿8Åãİ¾Ï1
+b
+java:S3358Ÿ"DExtract this nested ternary operation into an independent statement.(Ù®é˜8Åãİ¾Ï1

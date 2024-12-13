@@ -1,0 +1,19 @@
+
+y	java:S127H"XRefactor the code in order to not assign to this loop counter from within the loop body.(û ™›üÿÿÿÿ8¯„ï¥Æ1
+y	java:S127L"XRefactor the code in order to not assign to this loop counter from within the loop body.(û ™›üÿÿÿÿ8°„ï¥Æ1
+y	java:S127P"XRefactor the code in order to not assign to this loop counter from within the loop body.(û ™›üÿÿÿÿ8°„ï¥Æ1
+y	java:S127T"XRefactor the code in order to not assign to this loop counter from within the loop body.(û ™›üÿÿÿÿ8°„ï¥Æ1
+y	java:S127X"XRefactor the code in order to not assign to this loop counter from within the loop body.(û ™›üÿÿÿÿ8°„ï¥Æ1
+y	java:S127\"XRefactor the code in order to not assign to this loop counter from within the loop body.(û ™›üÿÿÿÿ8°„ï¥Æ1
+t	java:S127j"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌµĞ·8°„ï¥Æ1
+L	java:S106"+Replace this use of System.out by a logger.(œÒ¸şÿÿÿÿ8…ï¥Æ1
+G	java:S106"+Replace this use of System.out by a logger.(Ü£²°8…ï¥Æ1
+L	java:S106"+Replace this use of System.out by a logger.(ò¤Ÿéûÿÿÿÿ8…ï¥Æ1
+G	java:S106"+Replace this use of System.out by a logger.(ğæ©Ú8…ï¥Æ1
+V
+java:S28646"4Iterate over the "entrySet" instead of the "keySet".(„Òòüÿÿÿÿ8…ï¥Æ1
+t
+java:S6204@"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(½²Ş¢ÿÿÿÿÿ8…ï¥Æ1
+C	java:S131E""Add a default case to this switch.(Ô´ØÕıÿÿÿÿ8…ï¥Æ1
+W
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(„Òòüÿÿÿÿ8“…ï¥Æ1

@@ -1,0 +1,20 @@
+
+G	java:S106%"+Replace this use of System.out by a logger.(ëÍ÷¶8’â•éÈ1
+L	java:S106&"+Replace this use of System.out by a logger.(­Øüÿÿÿÿ8’â•éÈ1
+G	java:S106'"+Replace this use of System.out by a logger.(ç†•î8’â•éÈ1
+G	java:S106("+Replace this use of System.out by a logger.(®ğ³Ó8“â•éÈ1
+o
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Îäœ¼8•â•éÈ1
+o
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(–êƒŒ8–â•éÈ1
+p
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(´Ğ­œ8˜â•éÈ1
+M	java:S106Å"+Replace this use of System.out by a logger.(ğôû«ÿÿÿÿÿ8™â•éÈ1
+M	java:S106È"+Replace this use of System.out by a logger.(ÜÜ™úùÿÿÿÿ8™â•éÈ1
+M	java:S106Ê"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8™â•éÈ1
+u
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÑÛˆµşÿÿÿÿ8šâ•éÈ1
+[
+java:S1172å"8Remove these unused method parameters "isLeft", "pipes".(ÑÛˆµşÿÿÿÿ8›â•éÈ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8â•éÈ1
