@@ -1,17 +1,0 @@
-
-€
-java:S4165!"dRemove this useless assignment; "matrix" already holds the assigned value along all execution paths.(¹”„8·â ³Í1
-€
-java:S4165t"dRemove this useless assignment; "matrix" already holds the assigned value along all execution paths.(¹”„8¥€ĞªÎ1
-€
-java:S4165p"dRemove this useless assignment; "matrix" already holds the assigned value along all execution paths.(¹”„8¥€ĞªÎ1
-€
-java:S4165h"dRemove this useless assignment; "matrix" already holds the assigned value along all execution paths.(¹”„8¥€ĞªÎ1
-€
-java:S4165l"dRemove this useless assignment; "matrix" already holds the assigned value along all execution paths.(¹”„8¥€ĞªÎ1
-G	java:S106"+Replace this use of System.out by a logger.(õÉà‘8»â ³Í1
-L	java:S106"+Replace this use of System.out by a logger.(­Øüÿÿÿÿ8»â ³Í1
-G	java:S106"+Replace this use of System.out by a logger.(Ö·“8¼â ³Í1
-G	java:S106"+Replace this use of System.out by a logger.(®ğ³Ó8¼â ³Í1
-o
-java:S37764"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ŒŒ—¤8½â ³Í1
