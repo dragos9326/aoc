@@ -108,11 +108,11 @@ public class Day5 {
     private static int sortAndGetMiddle(String s, Map<Integer, List<Integer>> beforeNums) {
         List<Integer> row = new ArrayList<>(Arrays.stream(s.split(",")).map(Integer::parseInt).toList());
         row.sort((o1, o2) -> {
-            List<Integer> beforeList = beforeNums.get(o1);
             if (o1.equals(o2)) {
                 return 0;
             }
-            return beforeList != null && !beforeList.isEmpty() && beforeList.contains(o2) ? 1 : -1;
+
+            return isBeforeListValid(beforeNums, o1, o2) ? 1 : -1;
         });
         return row.get((row.size() - 1) / 2);
     }
