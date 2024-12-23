@@ -35,20 +35,16 @@ public class Day11 {
 
     private static long getFirstPartAnswer(List<BigInteger> numbers) {
         return numbers.stream()
-                .map(n -> getSizeAfterBlinks(n, 25))
+                .map(n -> blinkStone(n, 0, 0, 25))
                 .reduce(Long::sum)
                 .orElse(0L);
     }
 
     private static long getSecondPartAnswer(List<BigInteger> numbers) {
         return numbers.stream()
-                .map(n -> getSizeAfterBlinks(n, 75))
+                .map(n -> blinkStone(n, 0, 0, 75))
                 .reduce(Long::sum)
                 .orElse(0L);
-    }
-
-    private static long getSizeAfterBlinks(BigInteger n, int steps) {
-        return blinkStone(n, 0, 0, steps);
     }
 
     private static long blinkStone(BigInteger n, long sum, int currStep, int maxSteps) {
